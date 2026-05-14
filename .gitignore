@@ -1,0 +1,6 @@
+wp-config.php
+.htaccess
+node_modules/
+*.log
+wp-content/upgrade/
+wp-content/backup-db/
