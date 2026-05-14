@@ -1,6 +1,53 @@
-wp-config.php
+# ======================
+# OS
+# ======================
+.DS_Store
+Thumbs.db
+
+# ======================
+# IDE
+# ======================
+.vscode/
+.idea/
+
+# ======================
+# XAMPP / Local config
+# ======================
 .htaccess
-node_modules/
-*.log
+wp-config.php
+
+# ======================
+# WordPress Core (KHÔNG push)
+# ======================
+wp-admin/
+wp-includes/
+
+# ======================
+# Uploads (ảnh local)
+# ======================
+wp-content/uploads/
+
+# ======================
+# Cache & Logs
+# ======================
+wp-content/cache/
 wp-content/upgrade/
-wp-content/backup-db/
+wp-content/ai1wm-backups/
+*.log
+
+# ======================
+# Node / Build
+# ======================
+node_modules/
+dist/
+build/
+
+# ======================
+# Composer
+# ======================
+vendor/
+
+# ======================
+# Env
+# ======================
+.env
