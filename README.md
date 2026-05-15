@@ -1,0 +1,36 @@
+Tên đề tài :Website bán điện thoại
+Giới thiệu witesite /Hệ thống:
+Danh sách các thành viên :
+  Trương Thị Thu Chúc - 23810310072 , Vũ Thị Hồng - 23810310396
+Phân công nhiệm vụ cụ thể : 
+  Trang chủ : Chung 
+  Sản Phẩm : Chung
+  Tin Tức : Chúc
+  Liên hệ : Hồng
+  BoxChat : Chúc
+  Giỏ Hàng : Hồng
+  Thanh toán :Chúc
+  Các thành phần nhỏ : Chung
+Công nghệ sử dụngWordPress: 
+  Mã nguồn mở quản trị nội dung (CMS).
+  PHP: Ngôn ngữ lập trình cốt lõi của WordPress.
+  MySQL : Hệ quản trị cơ sở dữ liệu.
+  Apache: Máy chủ web xử lý yêu cầu.
+  XAMPP: Phần mềm tạo môi trường máy chủ giả lập.
+  HTML5 / CSS3 / JavaScript: Xây dựng giao diện frontend.
+Hướng dẫn cài đặt project:
+  Môi trường Localhost 
+  Bước 1: Tải và cài đặt phần mềm XAMPP.
+  Bước 2: Tải mã nguồn WordPress.org.
+  Bước 3: Giải nén WordPress vào thư mục C:\xampp\htdocs\BTL_DT. ( BTL_DT là tên folder bài tập lớn )
+  Bước 4: Mở XAMPP, nhấn Start Apache và MySQL.
+  Bước 5: Truy cập localhost/phpmyadmin tạo cơ sở dữ liệu mới.
+  Bước 6: Truy cập localhost/BTL_DT trên trình duyệt.
+  Bước 7: Kết nối cơ sở dữ liệu và thiết lập Admin.
+Hướng dẫn chạy project :
+  Bước 1: Mở bảng điều khiển ứng dụng XAMPP.
+  Bước 2: Kích hoạt hai dịch vụ Apache và MySQL.
+  Bước 3: Mở trình duyệt web bất kỳ trên máy.
+  Bước 4: Nhập địa chỉ localhost/ten_thu_muc_project.
+  Bước 5: Nhập localhost/BTL_DT/wp-admin để đăng nhập.
+Tài khoản Demo : admin / Tttc3011@
