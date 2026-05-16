@@ -1,5 +1,24 @@
 Tên đề tài :Website bán điện thoại
 Giới thiệu witesite /Hệ thống:
+  Giới thiệu SmartPhone Store
+    SmartPhone Store là trang web thương mại điện tử chuyên cung cấp các dòng điện thoại chính hãng với giá cạnh tranh, giao diện hiện đại và trải nghiệm mua sắm tiện lợi.
+  Chức năng nổi bật
+    Tìm kiếm sản phẩm nhanh chóng: người dùng có thể gõ từ khóa để tìm đúng mẫu điện thoại mong muốn.
+    Danh mục sản phẩm rõ ràng: phân loại theo thương hiệu, dòng máy, mức giá.
+    Trang chi tiết sản phẩm: hiển thị hình ảnh, thông số kỹ thuật, giá bán và khuyến mãi.
+    Giỏ hàng & thanh toán trực tuyến: hỗ trợ đặt hàng nhanh, theo dõi đơn hàng.
+    Tin tức công nghệ: cập nhật xu hướng smartphone mới nhất.
+    Chat trực tuyến: hỗ trợ khách hàng ngay khi cần.
+  Lợi ích cho người dùng
+    Tiết kiệm thời gian: dễ dàng tìm và so sánh sản phẩm.
+    Giá tốt nhất: nhiều chương trình Flash Sale, giảm giá hấp dẫn.
+    Đảm bảo chính hãng: cam kết sản phẩm mới 100%, bảo hành đầy đủ.
+    Trải nghiệm mượt mà: giao diện tối ưu cho cả máy tính và điện thoại.
+  Hiệu suất & kết quả đạt được
+    Tốc độ tải trang nhanh nhờ theme Astra tối ưu.
+    SEO thân thiện: cấu trúc URL rõ ràng giúp sản phẩm dễ lên top tìm kiếm Google.
+    Tỷ lệ chuyển đổi cao hơn: nhờ giỏ hàng và thanh toán đơn giản.
+    Khách hàng hài lòng: với dịch vụ hỗ trợ trực tuyến và thông tin minh bạch.
 Danh sách các thành viên :
   Trương Thị Thu Chúc - 23810310072 , Vũ Thị Hồng - 23810310396
 Phân công nhiệm vụ cụ thể : 
@@ -34,3 +53,5 @@ Hướng dẫn chạy project :
   Bước 4: Nhập địa chỉ localhost/ten_thu_muc_project.
   Bước 5: Nhập localhost/BTL_DT/wp-admin để đăng nhập.
 Tài khoản Demo : admin / Tttc3011@
+Link video demo :
+Link Online đã deploy : https://smartphonestorepmmnm.infinityfreeapp.com
